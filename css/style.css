@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.body {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: rgba(255, 192, 203, 0.479);
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: beige;
+    color: rgba(137, 43, 226, 0.432);
+}
+
+.retsept {
+    text-align: left;
+}
+
+.image {
+    text-align: left;
+}
+
+.img1 {
+width: 170px;
+height: 220px;
+}
+
+.heading2 {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: beige;
+    color: rgba(137, 43, 226, 0.432);
+}
+
+.ingridients {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: rgba(220, 20, 60, 0.253);
+    color: rgba(137, 43, 226, 0.432);
+    width: 10%;
+}
+
+.table {
+    text-align: left;
+    font-family: 'Permanent Marker', cursive;
+    color: dodgerblue;
+}
+
+.heading3 {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: beige;
+    color: rgba(137, 43, 226, 0.432);
+}
+
+.guide {
+    text-align: left;
+    font-family: 'Permanent Marker', cursive;
+    color: dodgerblue;
+    background-color: rgba(220, 20, 60, 0.253);
+    width: 45%;
+}
+
+.guide1 {
+    text-align: left;
+    font-family: 'Permanent Marker', cursive;
+    color: dodgerblue;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: beige;
+    color: rgba(137, 43, 226, 0.432);
+}
